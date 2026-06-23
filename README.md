@@ -7,7 +7,7 @@ Post-archinstall setup script for a minimal Arch + dwm environment.
 Run after first boot from archinstall (minimal profile), as your normal user.
 
 Installs: xorg, BreadOnPenguins' dwm/st/dmenu/dwmblocks builds,
-his scripts + dots configs, firefox, neovim, feh, slock, picom,
+her scripts + dots configs, firefox, neovim, feh, slock, picom,
 dunst, pywal, zsh + oh-my-zsh, JetBrains Mono + Hack Nerd Fonts.
 
 Usage:
